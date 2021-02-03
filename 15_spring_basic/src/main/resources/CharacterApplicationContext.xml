@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "https://www.springframework.org/dtd/spring-beans-2.0.dtd" >
+
+<beans>
+	<bean id="characterManager2" class="com.spring.basic.step01_DI.CharacterManager2"/>
+	<bean id="character1" class="com.spring.basic.step01_DI.Character1"/>
+	<bean id="character2" class="com.spring.basic.step01_DI.Character2"/>
+	<bean id="character3" class="com.spring.basic.step01_DI.Character3"/>
+</beans>
