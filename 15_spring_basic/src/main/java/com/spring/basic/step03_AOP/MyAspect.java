@@ -88,6 +88,4 @@ public class MyAspect {
 		logger.info("AOP AfterThrowing 메소드 호출 : 보고서를 보낸 것을 눈치챘다.");
 	}
 	
-	
-	
 }
